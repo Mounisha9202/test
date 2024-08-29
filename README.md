@@ -1,2 +1,2 @@
 # test
-test pero
+test pero for git command demonstation
